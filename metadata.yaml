@@ -1,0 +1,44 @@
+_repo: The-Kansas-University-Quarterly-b-Vol-I-No-4-April-1893_70765
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Blackmar, Frank W. (Frank Wilson)
+    aliases:
+    - Blackmar, F. W. (Frank Wilson)
+    - Blackmar, Frank Wilson
+    birthdate: 1854
+    deathdate: 1931
+    gutenberg_agent_id: '34710'
+    url: http://www.gutenberg.org/2009/agents/34710
+    wikipedia: https://en.wikipedia.org/wiki/Frank_W._Blackmar
+  - agent_name: Hodder, Frank Heywood
+    alias: Hodder, F. H. (Frank Heywood)
+    birthdate: 1860
+    deathdate: 1935
+    gutenberg_agent_id: '50038'
+    url: http://www.gutenberg.org/2009/agents/50038
+    wikipedia: https://en.wikipedia.org/wiki/Frank_Heywood_Hodder
+  - agent_name: Various
+    aliases:
+    - Verschillende
+    - Various, Various
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2023-05-15'
+identifiers:
+  gutenberg: '70765'
+language: en
+pgterms:marc905: 20161111125013various
+pgterms:marc906: '1893'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bKansas University, $c1893.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Kansas University Quarterly : $b Vol. I, No. 4, April 1893'
+url: http://www.gutenberg.org/ebooks/70765
