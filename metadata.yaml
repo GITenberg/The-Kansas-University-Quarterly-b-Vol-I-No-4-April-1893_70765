@@ -1,5 +1,8 @@
 _repo: The-Kansas-University-Quarterly-b-Vol-I-No-4-April-1893_70765
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70765-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Blackmar, Frank W. (Frank Wilson)
@@ -25,6 +28,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70765#The-Kansas-University-Quarterly-b-Vol-I-No-4-April-1893
 gutenberg_issued: '2023-05-15'
 identifiers:
   gutenberg: '70765'
